@@ -5,15 +5,15 @@
 <div>
   <h2>Programming languages</h2>
   <ul>
-    <il>Python</il>
-    <il>Java</il>
-    <il>C++</il>
-    <il>JavaScript</il>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C++</li>
+    <li>JavaScript</li>
   </ul>
   <h2>Frameworks</h2>
   <ul>
-    <il>Vuejs</il>
-    <il>django</il>
+    <li>Vuejs</li>
+    <li>django</li>
   </ul>
 </div>
 
