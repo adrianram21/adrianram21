@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm adrianram21</h1>
+  <h1>Hola, soy adrianram21</h1>
 </div>
 
-## Programming languages
+## Lenguajes de programación
 - 🐍 Python
 - ☕ Java
 - 🟡 JavaScript
